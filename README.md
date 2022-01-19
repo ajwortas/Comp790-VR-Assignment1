@@ -1,5 +1,5 @@
 # Comp790-VR-Assignment1
-An introductory VR game made in unity. 
+An introductory VR game made in unity. Designed for google cardboard.
 
 # Why this is a game based on our definitions:
 Fixed rules: In this game you have 10 balls and need to try and hit the targets. Hitting a target allows you to score points based off of the difficulty of the shot. Harder shots give more points but you're more likely to miss.
